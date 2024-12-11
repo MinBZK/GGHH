@@ -1,10 +1,13 @@
 let respecConfig = {
+  // Config parameters
   useLogo: true,
   useLabel: true,
   license: "cc0",
-  specStatus: "WV",
+  specStatus: "wv",
   specType: "IM",
-  pubDomain: "dk",
+  pubDomain: "ronl",
+
+  // shortName = Repository name
   shortName: "GGHH",
   publishDate: "2024-12-11",
   publishVersion: "0.0.1",
