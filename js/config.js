@@ -8,14 +8,14 @@ let respecConfig = {
   pubDomain: "ronl",
 
   // shortName = Repository name
-  shortName: "GGHH",
+  shortName: "gghh",
   publishDate: "2024-12-11",
   publishVersion: "0.0.1",
 
   previousVersion: "",
   previousPublishDate: "",
   previousMaturity: "",
-  title: "gghh",
+  title: "GGHH",
   subtitle: "Dit model heeft betrekking op de gegevenshuishouding dat onderdeel is van de informatie huishouding.",
   content: {"ch01": "informative", "ch02": ""},
   editors: [
