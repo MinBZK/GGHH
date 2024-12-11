@@ -17,7 +17,7 @@ let respecConfig = {
   previousMaturity: "",
   title: "GGHH",
   subtitle: "Dit model heeft betrekking op de gegevenshuishouding dat onderdeel is van de informatie huishouding.",
-  content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+  content: {"ch01": "informative", "ch02": ""},
   editors: [
     {
       name: "Steven Gort",
