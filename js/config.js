@@ -15,7 +15,7 @@ let respecConfig = {
   previousVersion: "",
   previousPublishDate: "",
   previousMaturity: "",
-  title: "GGHH",
+  title: "gghh",
   subtitle: "Dit model heeft betrekking op de gegevenshuishouding dat onderdeel is van de informatie huishouding.",
   content: {"ch01": "informative", "ch02": ""},
   editors: [
@@ -43,7 +43,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "https://regels.overheid.nl/standaarden/gghh/pdf",
+          uri: "gghh.pdf",
       },
   ],
 };
