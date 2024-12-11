@@ -1,43 +1,46 @@
 let respecConfig = {
   useLogo: true,
   useLabel: true,
-  license: "cc-by",
-  specStatus: "DEF",
-  specType: "HR",
+  license: "cc0",
+  specStatus: "WV",
+  specType: "IM",
   pubDomain: "dk",
-  shortName: "template",
-  publishDate: "2023-06-21",
-  publishVersion: "0.0.3",
-  
-  previousPublishVersion: "0.0.2",
-  previousPublishDate: "2022-06-24",
-  previousMaturity: "WV",
-  title: "titleText",
+  shortName: "GGHH",
+  publishDate: "2024-12-11",
+  publishVersion: "0.0.1",
+
+  previousVersion: "",
+  previousPublishDate: "",
+  previousMaturity: "",
+  title: "GGHH",
+  subtitle: "Dit model heeft betrekking op de gegevenshuishouding dat onderdeel is van de informatie huishouding.",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
-  editors:
-    [
-      {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
-      }
-    ],
-  authors:
-    [
-      {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
-      }
-    ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  editors: [
+    {
+      name: "Steven Gort",
+      mailto: "steven.gort@ictu.nl",
+      company: "ICTU",
+      companyURL: "http://www.ictu.nl",
+    },
+  ],
+  authors: [
+    {
+      name: "Andre Hollants",
+      url: "https://www.rijksoverheid.nl/jenv",
+    },
+    {
+      name: "Steven Gort",
+      url: "https://www.ictu.nl",
+    },
+  ],
+  github: "https://github.com/MinBZK/gghh/",
 
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [
       {
           label: "pdf",
-          uri: "template.pdf",
+          uri: "https://regels.overheid.nl/standaarden/gghh/pdf",
       },
   ],
 };
